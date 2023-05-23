@@ -1,0 +1,29 @@
+{
+  "name": "@nori-dot-com/nori-template-next",
+  "version": "0.0.1",
+  "module": "true",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ethers": "~5",
+    "next": "^13.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "viem": "~0.3.36",
+    "wagmi": "^1.0.6"
+  },
+  "devDependencies": {
+    "@nori-dot-com/contracts": "latest",
+    "@types/node": "^18.15",
+    "@types/react": "^18.2.7",
+    "@types/react-dom": "^18.2.4",
+    "eslint": "^8.15.0",
+    "eslint-config-next": "^13.4.3",
+    "typescript": "^5.0.4"
+  }
+}

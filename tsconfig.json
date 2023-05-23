@@ -1,0 +1,13 @@
+{
+  "extends": ["@tsconfig/node18/tsconfig", "@tsconfig/strictest/tsconfig"],
+  "compilerOptions": {
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "incremental": true,
+    "module": "ESNext",
+    "target": "ESNext",
+    "noEmit": true
+  },
+  "include": ["src", "templates", "./global.d.ts", "./tsup.config.ts"],
+  "exclude": ["node_modules"]
+}

@@ -1,6 +1,8 @@
-# `@nori-dot-com/create-create`
+<img width="150" alt="Nori Symbol - full_color" src="https://user-images.githubusercontent.com/18407013/191872114-ffa7ea67-3ce8-4102-9919-4c6014001a1c.png">
 
-Get up and running quickly with Nori by using a `@nori-dot-com/create` CLI tool. This tool interactively scaffolds a new Nori-integrated project for you so you can start building instantly without the hassle of setting up `git`, installing packages, worrying about TypeScript configuration, etc.
+# Bootstrap a [Nori](https://nori.com) integration
+
+Get up and running quickly with Nori by using the `@nori-dot-com/create` CLI tool. This tool interactively scaffolds a new Nori-integrated project for you so you can start building instantly without the hassle of setting up `git`, installing packages, worrying about TypeScript configuration, etc.
 
 To get started, `@nori-dot-com/create` can be instantiated with one of your favorite package managers:
 

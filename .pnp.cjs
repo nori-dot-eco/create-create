@@ -2029,7 +2029,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "graphql",\
-        "npm:16.6.0"\
+        "npm:16.8.1"\
       ],\
       [\
         "graphql-config",\
@@ -3987,7 +3987,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-import-resolver-typescript", "virtual:e3f1f4e976b1c2a2b63851facbb822d42aae36baef061c161fa72b0be2aa494da87c91ecc35a2799a715c869d1475902e56d45062c86c5784f1b617a66b564af#npm:3.5.5"],\
             ["execa", "npm:6.1.0"],\
             ["fs-extra", "npm:10.1.0"],\
-            ["graphql", "npm:16.6.0"],\
+            ["graphql", "npm:16.8.1"],\
             ["ora", "npm:6.3.1"],\
             ["picocolors", "npm:1.0.0"],\
             ["prettier", "npm:2.8.8"],\
@@ -5943,7 +5943,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-import-resolver-typescript", "virtual:e3f1f4e976b1c2a2b63851facbb822d42aae36baef061c161fa72b0be2aa494da87c91ecc35a2799a715c869d1475902e56d45062c86c5784f1b617a66b564af#npm:3.5.5"],\
             ["execa", "npm:6.1.0"],\
             ["fs-extra", "npm:10.1.0"],\
-            ["graphql", "npm:16.6.0"],\
+            ["graphql", "npm:16.8.1"],\
             ["ora", "npm:6.3.1"],\
             ["picocolors", "npm:1.0.0"],\
             ["prettier", "npm:2.8.8"],\
@@ -11571,10 +11571,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:16.6.0", {\
-          "packageLocation": "./.yarn/cache/graphql-npm-16.6.0-301c470966-bf1d9e3c19.zip/node_modules/graphql/",\
+        ["npm:16.8.1", {\
+          "packageLocation": "./.yarn/cache/graphql-npm-16.8.1-c2cd08b4c0-8d304b7b6f.zip/node_modules/graphql/",\
           "packageDependencies": [\
-            ["graphql", "npm:16.6.0"]\
+            ["graphql", "npm:16.8.1"]\
           ],\
           "linkType": "HARD"\
         }]\
